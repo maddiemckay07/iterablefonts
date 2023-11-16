@@ -1,0 +1,23 @@
+@font-face {
+    font-family: ‘AcidGrotesk;
+    src: url(FFF-AcidGrotesk-BoldItalic.woff2') format('woff2’);
+    src: url('FFF-AcidGrotesk-RegularItalic.woff2') format('woff2’);
+    src: url('FFF-AcidGrotesk-MediumItalic.woff2') format('woff2’);
+    src: url('FFF-AcidGrotesk-BookItalic.woff2') format('woff2’);
+    src: url('FFF-AcidGrotesk-LightItalic.woff2') format('woff2’);
+    src: url('FFF-AcidGrotesk-BoldItalic.woff') format('woff');
+    src: url('FFF-AcidGrotesk-RegularItalic.woff') format('woff');
+    src: url('FFF-AcidGrotesk-BookItalic.woff') format('woff');
+    src: url('FFF-AcidGrotesk-MediumItalic.woff') format('woff');
+    src: url('FFF-AcidGrotesk-LightItalic.woff') format('woff');
+    src: url('FFF-AcidGrotesk-Bold.woff2') format('woff2’);
+    src: url('FFF-AcidGrotesk-Regular.woff2') format('woff2’);
+    src: url('FFF-AcidGrotesk-Light.woff2') format('woff2’);
+    src: url('FFF-AcidGrotesk-Medium.woff2') format('woff2’);
+    src: url('FFF-AcidGrotesk-Bold.woff') format('woff’);
+    src: url('FFF-AcidGrotesk-Regular.woff') format('woff’);
+    src: url('FFF-AcidGrotesk-Light.woff') format('woff’);
+    src: url('FFF-AcidGrotesk-Medium.woff') format('woff’);
+    src: url('FFF-AcidGrotesk-Medium.woff') format('woff’);
+}
+
